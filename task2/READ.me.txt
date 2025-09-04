@@ -5,3 +5,9 @@
 
 ### Live Demo
 [Click Here](https://aditya-git-07.github.io/NSCC-TECHDOMAIN-TASK/Task2/dark-red-quiz-app.html)
+
+### Screenshot
+![Screenshot](screenshot2.png)
+
+### Demo Video
+![Demo](quiz demo.gif)

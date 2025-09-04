@@ -7,3 +7,10 @@
 [Click Here](https://aditya-git-07.github.io/NSCC-TECHDOMAIN-TASK/Task1/dark-signup-dashboard.html)
 
 
+### Screenshot
+![Screenshot](screenshot1.png)
+
+### Demo Video
+![Demo](user reg demo.gif)
+
+
