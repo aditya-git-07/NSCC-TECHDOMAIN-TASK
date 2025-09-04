@@ -11,6 +11,6 @@
 ![Screenshot](screenshot1.png)
 
 ### Demo Video
-![Demo](user reg demo.gif)
+![Demo](user_reg_demo.gif)
 
 

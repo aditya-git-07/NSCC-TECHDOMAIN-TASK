@@ -10,4 +10,4 @@
 ![Screenshot](screenshot2.png)
 
 ### Demo Video
-![Demo](quiz demo.gif)
+![Demo](quiz_demo.gif)
