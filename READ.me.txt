@@ -1,0 +1,14 @@
+# Technical Domain Tasks
+
+This repository contains my submissions for the NSCC Technical Domain Task.
+
+---
+
+## Task 1: Signup Form + Dashboard
+- Description: A dark mode signup form with validation and dashboard page.
+- [Live Demo](https://aditya-git-07.github.io/NSCC-TECHDOMAIN-TASK/Task1/dark-signup-dashboard.html)
+
+## Task 2: Quiz App
+- Description: A dark theme interactive quiz app with multiple-choice questions.
+- [Live Demo](https://aditya-git-07.github.io/NSCC-TECHDOMAIN-TASK/Task2/dark-red-quiz-app.html)
+

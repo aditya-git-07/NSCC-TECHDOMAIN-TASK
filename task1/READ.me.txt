@@ -1,0 +1,9 @@
+# Task 1: Signup Form + Dashboard
+
+- Dark mode signup form with validation.  
+- Redirects to a dashboard page.  
+
+### Live Demo
+[Click Here](https://aditya-git-07.github.io/NSCC-TECHDOMAIN-TASK/Task1/dark-signup-dashboard.html)
+
+

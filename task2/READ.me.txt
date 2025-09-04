@@ -1,0 +1,7 @@
+# Task 2: Interactive Quiz App
+
+- Dark theme multiple-choice quiz app.  
+- Shows score after completion.  
+
+### Live Demo
+[Click Here](https://aditya-git-07.github.io/NSCC-TECHDOMAIN-TASK/Task2/dark-red-quiz-app.html)
