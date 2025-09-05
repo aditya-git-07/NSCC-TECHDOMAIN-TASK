@@ -28,8 +28,9 @@ Each task is organized in its own folder with code, README, screenshots, and dem
  ### Screenshot
 ![Screenshot](task2/screenshot2.png)
 
-### Demo GIF
+### Demo Video
 ![Demo](task2/quiz_demo.gif)
+
 ---
 
 
