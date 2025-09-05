@@ -9,13 +9,13 @@ Each task is organized in its own folder with code, README, screenshots, and dem
 - Dark mode signup form with validation  
 - Redirects to a dashboard page  
 
- [Live Demo](https://aditya-git-07.github.io/NSCC-TECHDOMAIN-TASK/Task1/dark-signup-dashboard.html)
+ [Click here to view the live page](https://aditya-git-07.github.io/NSCC-TECHDOMAIN-TASK/task1/dark-signup-dashboard.html)
 
  Screenshot  
-![Screenshot](Task1/screenshot1.png)
+![Screenshot](screenshot1.png)
 
  Demo GIF  
-![Demo](Task1/user reg demo.gif)
+![Demo](user_reg_demo.gif)
 
 ---
 
@@ -23,13 +23,13 @@ Each task is organized in its own folder with code, README, screenshots, and dem
 - Dark theme multiple-choice quiz app  
 - Shows score after completion  
 
- [Live Demo](https://aditya-git-07.github.io/NSCC-TECHDOMAIN-TASK/Task2/dark-red-quiz-app.html)
+ [Click here to view the live page](https://aditya-git-07.github.io/NSCC-TECHDOMAIN-TASK/task2/dark-red-quiz-app.html)
 
  Screenshot  
-![Screenshot](Task2/screenshot2.png)
+![Screenshot](screenshot2.png)
 
  Demo GIF  
-![Demo](Task2/quiz demo.gif)
+![Demo](quiz_demo.gif)
 
 ---
 
