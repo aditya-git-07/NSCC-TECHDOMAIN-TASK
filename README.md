@@ -11,11 +11,11 @@ Each task is organized in its own folder with code, README, screenshots, and dem
 
  [Click here to view the live page](https://aditya-git-07.github.io/NSCC-TECHDOMAIN-TASK/task1/dark-signup-dashboard.html)
 
- Screenshot  
-![Screenshot](screenshot1.png)
+### Screenshot
+![Screenshot](task1/screenshot1.png)
 
- Demo GIF  
-![Demo](user_reg_demo.gif)
+### Demo GIF
+![Demo](task1/user_reg_demo.gif)
 
 ---
 
@@ -25,12 +25,11 @@ Each task is organized in its own folder with code, README, screenshots, and dem
 
  [Click here to view the live page](https://aditya-git-07.github.io/NSCC-TECHDOMAIN-TASK/task2/dark-red-quiz-app.html)
 
- Screenshot  
-![Screenshot](screenshot2.png)
+ ### Screenshot
+![Screenshot](task2/screenshot2.png)
 
- Demo GIF  
-![Demo](quiz_demo.gif)
-
+### Demo GIF
+![Demo](task2/quiz_demo.gif)
 ---
 
 
